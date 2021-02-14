@@ -1,2 +1,2 @@
 # Solar-System-Simulation
-a live simulation of the solar system with relatively accurate distances
+a Unity live simulation of the solar system game with relatively accurate distances and planets camera track by mouse click.
