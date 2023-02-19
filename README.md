@@ -1,2 +1,3 @@
 # Solar-System-Simulation
-a Unity WebGL live simulation of the solar system game with relatively accurate distances and planets camera track by mouse click.
+a Unity WebGL 3D realistic simulation of the solar system with relatively accurate distances between the
+planets. The player can move the camera focus to different objects interact with them and change orbits’ speed.
